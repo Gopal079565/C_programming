@@ -1,7 +1,7 @@
 # C Programming Course By Venom's Code
 
 ## Course Description
-This online course is designed specifically for B.Tech CS students to learn C programming from scratch. It will cover all the essential topics step-by-step to build a strong foundation and help students gain practical programming skills.
+This course is designed specifically for students to learn C programming from scratch. It will cover all the essential topics step-by-step to build a strong foundation and help students gain practical programming skills.
 
 ---
 
@@ -86,8 +86,8 @@ This online course is designed specifically for B.Tech CS students to learn C pr
 ## Target Audience
 This course is ideal for:
 - Beginners who want to learn C programming from scratch.
-- B.Tech CS students looking to strengthen their programming basics.
-- Anyone interested in competitive programming or technical interviews.
+- students looking to strengthen their programming basics.
+
 
 ---
 
