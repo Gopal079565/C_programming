@@ -93,4 +93,3 @@ This course is ideal for:
 
 ## Get Started
 Enroll today and start your journey to mastering C programming. With a step-by-step approach and practical exercises, this course will make you confident in writing efficient C programs.
-
